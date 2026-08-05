@@ -1,8 +1,8 @@
 # Leaving the lab
 
-**Update:** August 2026
+Last updated: August 5 2026
 
-_Under construction_
+Next review: Under construction
 
 ## 
 Before leaving, each member should complete the relevant departure checklist. At minimum, the member and Nobu should:

@@ -1,7 +1,8 @@
 # Mizumoto Lab Policies
 
-**Draft:** August 2026  
-**Review cycle:** Review each August and whenever a recurring problem reveals that the policy is unclear.
+Last updated: 2026-08-05
+
+Next review: 2027-08
 
 ## Purpose
 
@@ -55,15 +56,13 @@ Nobu expects lab members to:
 
 Paid lab members should receive written terms describing their appointment, compensation, workload, and responsibilities. Appointment letters and Auburn University policies take precedence over this policy.
 
-Compensation reflects university and departmental requirements, funding, experience, responsibilities, performance, and internal equity. Rates and graduate stipends will be reviewed at least annually and when appointments, responsibilities, funding availability change, but an increase is not guaranteed. Please see [current rates](policies/compensation-rates.md).
+Compensation reflects university and departmental requirements, funding, experience, responsibilities, performance, and internal equity. Rates and graduate stipends will be reviewed at least annually and when appointments, responsibilities, funding availability change, but an increase is not guaranteed. Please see [current rates](compensation-rates.md).
 
-I expect graduate students to be familier with their own degree program, including the Calender, Checklist, and Requirments. Read and bookmarks this [resource](https://graduate.auburn.edu/current-students/academic-resources/on-track-graduation.php?utm_source=graduate&utm_medium=web).
+I expect graduate students to be familiar with their own degree program, including the Calendar, Checklist, and Requirements. Read and bookmarks this [resource](https://graduate.auburn.edu/current-students/academic-resources/on-track-graduation.php?utm_source=graduate&utm_medium=web).
 
 ### Graduate research assistantships
 
-All graduate students in our department are paid as GRA (Graduate Research Assistantship). GRA represents an appointment of 0.33 FTEs. No graduate student can work more than 0.5 FTE, typically not less than 0.25 FTE. This means a student is responsible for working **at least 13.2 hours weekly** on research outside of their thesis/dissertation on work that contributes directly to research performance in the lab.
-
-In most cases, this will overlap with your thesis project, but this includes assisting your lab mates with their work. These hours are not monitored unless a student clearly does not contribute to the lab's work. 
+Graduate students supported through the Mizumoto Lab are normally appointed as Graduate Research Assistants (GRA). GRA represents an appointment of 0.33 FTEs. A 0.33 FTE assistantship corresponds to approximately 13 hours per week of assigned research responsibilities. These responsibilities may overlap substantially with the student’s thesis or dissertation research, but this includes assisting your lab mates with their work. These hours are not monitored unless a student clearly does not contribute to the lab's work. 
 
 ## Communication, presence, and flexibility
 
@@ -82,7 +81,7 @@ When requesting feedback on a manuscript, proposal, presentation, or other subst
 
 Nobu usually writes in the morning (7:00-9:00 am) if there is no other schedule. Except for this time, Nobu is available for any kind of meeting with lab members until 5:00 pm. 
 
-If lab members send me an email, I try to reply on the same or the next day if it is within a usual working day.
+If lab members email me, I try to reply on the same or the next day if it is within a usual working day.
 
 Please set a deadline whenever you request feedback for your proposal or manuscript. It will help both of us. And feel free to bug me close to the deadlines (even on the day of) -- I won't be offended by reminders. Instead, I will appreciate them!
  

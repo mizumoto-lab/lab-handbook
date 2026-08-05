@@ -1,6 +1,6 @@
 # Opporunities
 
-**Update:** August 2026
+Last updated: August 5 2026
 
 ## Fellowship and Grant opportunities
 

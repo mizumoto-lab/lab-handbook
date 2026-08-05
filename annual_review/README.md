@@ -15,7 +15,7 @@ The annual review is intended primarily as a developmental and planning process.
 
 Annual reviews normally take place in early August and cover the period from August 1 through July 31.
 
-The annual review template can be downloaded here: [Annual Graduate Student Review template](annual_review/Annual_Graduate_Student_Review_Template.docx).
+The annual review template can be downloaded here: [Annual Graduate Student Review template](Annual_Graduate_Student_Review_Template.docx).
 
 ### Processudure
 

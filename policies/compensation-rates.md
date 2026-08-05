@@ -1,7 +1,8 @@
 # Mizumoto Lab Compensation Rates
 
-**Draft:** August 2026  
-**Review cycle:** Review each August and whenever departmental rates or university rules change.
+Last updated: 2026-08-05
+
+Next review: 2027-08
 
 This document records current compensation rates and lab-funded incentives. Individual appointment letters state the actual appointment period, stipend or hourly rate, and other applicable terms. All compensation is subject to Auburn University, Graduate School, departmental, payroll, tax, grant, and sponsor requirements.
 
@@ -66,8 +67,8 @@ Research writing and grant development are important parts of graduate training.
 
 For the first submission of each paper co-authored with Nobu Mizumoto:
 
-- First author: $500.
-- Co-author: $200.
+- First author or co-first author: $500
+- Other co-author: $200
 
 ### Refereed journal acceptance
 
@@ -89,4 +90,4 @@ Students may ask Nobu to consider a noteworthy research or professional achievem
 
 Undergraduate research assistants normally begin at **$12 per hour**. Rates may be adjusted based on experience, responsibilities, funding, and internal equity.
 
-Paid undergraduate assistants are normally expected to work at least 10 hours per week so that they can interact regularly with the lab and make sustained progress. Lab meetings and training in tools directly required for assigned work count as paid working time. All working time must be recorded accurately using TigerTime.
+Paid undergraduate assistants are normally expected to work at least 10 hours per week so that they can interact regularly with the lab and make sustained progress. Lab meetings and training in tools directly required for assigned work count as paid working time. All working time must be recorded accurately using Tiger Time.
