@@ -2,14 +2,16 @@
 
 This repository contains general Mizumoto Lab policies, templates, and onboarding resources. Student evaluations, individualized onboarding records, personnel information, unpublished data, passwords, and other confidential materials must not be stored here.
 
-This repository will be for all the lab members and be maintained by Nobu.
+This repository is intended for all lab members and is maintained by Nobu.
 
-Please report to Nobu if you find a confusing or outdated policy.
+Please let Nobu know if you find a policy that is confusing, outdated, or inconsistent with current lab practice.
 
 ## Core documents
 
 - [Lab policies](policies/policies.md)
-- [Annual Review](annual_review/README.md)
+- [Compensation rates and incentives](policies/compensation-rates.md)
+- [Annual graduate student review](annual_review/README.md)
+- [Change history](changelog.md)
 
 ## Other documents
 
@@ -18,4 +20,4 @@ Please report to Nobu if you find a confusing or outdated policy.
 ## Documents for Nobu
 
 - [Onboarding checklist](onboarding/README.md)
-- [Offboarding checklist](offborading\README.md)
+- [Offboarding checklist](offboarding/README.md)

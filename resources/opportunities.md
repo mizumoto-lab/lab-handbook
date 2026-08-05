@@ -1,6 +1,8 @@
-# Opporunities
+# Opportunities
 
-Last updated: August 5 2026
+Last updated: long ago
+
+Eligibility, deadlines, funding amounts, and program availability may change. Always verify current information on the official program website before applying.
 
 ## Fellowship and Grant opportunities
 
@@ -38,7 +40,7 @@ Here is a list of fellowships/grants to which lab members may apply. You can alw
 * [ESA (Entomological Society of America)](https://www.entsoc.org/awards) offers many grants and awards.
   + Additionally, ESA sections have further awards/grants, including travel grants to attend national conferences. Our relevant sections are [SysEB](https://entocert.org/membership/sections/syseb/awards) and [MUVE](https://entocert.org/membership/sections/muve/awards)
 * [William L. and Ruth D. Nutting Termite Research Grant](https://iussi.cyberbee.net/awards/)
-  + IUSSI - NAS has various small research grants for students studying social insects. I highly recommend applying for termtie one.
+  + IUSSI - NAS has various small research grants for students studying social insects. I highly recommend applying for termite one.
 * The Animal Behavior Society has [student research grant](https://www.animalbehaviorsociety.org/web/awards-srg.php) and [travel grant for conference](https://www.animalbehaviorsociety.org/web/awards-student.php)
 * [American Society of Naturalist](https://www.amnat.org/announcements/apply-student-research-award.html)
 * [The Society for Integrative & Comparative Biology](https://sicb.org/grants-and-scholarships/)
@@ -51,7 +53,7 @@ Here is a list of fellowships/grants to which lab members may apply. You can alw
 * [ATBC seed research grant](https://tropicalbiology.org/grants-awards/atbc-seed-research-grant/)
   + research grant for students to study in the tropics.
 * [American Museum of Natural History](https://www.amnh.org/research/richard-gilder-graduate-school/academics/fellowship-and-grant-opportunities/research-grants-and-graduate-student-exchange-fellowships)
-* [The EXPLORES CLUB](rershttps://www.explorers.org/grants/the-exploration-fund-grant/#form_explo)
+* [The EXPLORES CLUB](https://www.explorers.org/grants/the-exploration-fund-grant/#form_explo)
   + The Exploration Fund Grant aims to support graduate/post-graduate students and early career field scientists across a variety of disciplines. Awards typically range from 2,500 to 5,000 USD
   + [ROLEX EXPLORERS CLUB GRANT](https://www.explorers.org/grants/rolex-explorers-club-grant/#form_explorers)
   

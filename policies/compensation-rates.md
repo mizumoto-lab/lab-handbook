@@ -19,7 +19,7 @@ Students are responsible for required university and health-related fees.
 
 ### Lab-funded stipend levels
 
-When funding and university rules permit, the lab may provide a stipend above the departmental base. Stipend levels should be reviewed annually, before the next academic-year appointment. It is based on demonstrated performance during the preceding year and is not automatic based on time in the program or completion of a required degree milestone. The review considers the quality and consistency of research progress, increasing independence, research communication, reliability, and contributions to the lab. Relevant evidence may include:
+When funding and university rules permit, the lab may provide a stipend above the departmental base. Stipend levels are reviewed annually before the next academic-year appointment. It is based on demonstrated performance during the preceding year and is not automatic based on time in the program or completion of a required degree milestone. The review considers the quality and consistency of research progress, increasing independence, research communication, reliability, and contributions to the lab. Relevant evidence may include:
 - Designing and completing well-planned research.
 - Collecting, organizing, analyzing, or interpreting substantial data.
 - Preparing or submitting a manuscript.
@@ -57,7 +57,7 @@ Because an MS program typically lasts about two years, students will ordinarily 
 
 The department may occasionally provide a $1,000-per-semester GTA supplement for additional teaching work. These supplements must be approved by the department chair and are provided through the student's university account.
 
-**Please discuss with Nobu when you engage in Teaching Assistantship**
+**Please discuss any teaching-assistantship opportunity with Nobu before accepting it.**
 
 ## Productivity incentives for Graduate students
 
@@ -72,7 +72,7 @@ For the first submission of each paper co-authored with Nobu Mizumoto:
 
 ### Refereed journal acceptance
 
-- First author of a paper accepted by a journal designated as **incentive level 1** in the [journal list](https://docs.google.com/spreadsheets/d/1tNzj1UMuvO9vShVRI0QanOSFvRSSd8Q5cm1ndOqWjYg/edit?gid=1450194090#gid=1450194090): an additional $500.
+- First or co-first author of a paper accepted by a journal designated as **incentive level 1** in the [journal list](https://docs.google.com/spreadsheets/d/1tNzj1UMuvO9vShVRI0QanOSFvRSSd8Q5cm1ndOqWjYg/edit?gid=1450194090#gid=1450194090): an additional $500.
 
 ### Research grants
 

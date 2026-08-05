@@ -1,15 +1,17 @@
-### Purpose of the Annual Review
+## Annual Graduate Student Review
+
+### Purpose
 
 The annual review provides an opportunity for each graduate student and the PI to reflect on the student's research, academic, and professional development during the previous year. Its purposes are to:
 
-1. recognize accomplishments and progress;
-2. identify barriers, concerns, and areas for improvement;
-3. clarify expectations and responsibilities;
-4. identify training, resources, and guidance needed from the PI;
-5. establish a small number of concrete priorities for the next review period; and
-6. document progress relevant to degree advancement and, when applicable, stipend-level decisions.
+1. Recognize accomplishments and progress;
+2. Identify barriers, concerns, and areas for improvement;
+3. Clarify expectations and responsibilities;
+4. Identify training, resources, and guidance needed from the PI;
+5. Establish concrete priorities for the next review period; and
+6. Document progress relevant to degree advancement and, when applicable, stipend-level decisions.
 
-The annual review is intended primarily as a developmental and planning process. Stipend decisions are based on the criteria described in the lab compensation policy, available funding, and department guidline. A student's feedback about the PI will not be used in decisions about the student's stipend or standing in the lab.
+The annual review is intended primarily as a developmental and planning process. Stipend decisions are based on the criteria described in the lab compensation policy, available funding, and departmental guideline. A student's feedback about the PI will not be used in decisions about the student's stipend or standing in the lab.
 
 ### Review period and timing
 
@@ -17,7 +19,7 @@ Annual reviews normally take place in early August and cover the period from Aug
 
 The annual review template can be downloaded here: [Annual Graduate Student Review template](Annual_Graduate_Student_Review_Template.docx).
 
-### Processudure
+### Procedure
 
 1. Before the review meeting, the student submits:
    - an updated CV; and

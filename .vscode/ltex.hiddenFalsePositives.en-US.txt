@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QNationalGeographic\nLevel I and Level II grants\nNational Pest Management Association\\E$"}

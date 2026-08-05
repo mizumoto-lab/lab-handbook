@@ -4,7 +4,7 @@ This folder contains the onboarding templates for incoming members in the Mizumo
 
 ## Process
 
-- Incoming members will be received the link to the Google Spreadsheet for the tailored onbording checklist.
+Incoming members will receive a link to a private Google Sheet containing a tailored onboarding checklist. Individualized onboarding records must not be stored in this public repository.
 
 ## Files
 

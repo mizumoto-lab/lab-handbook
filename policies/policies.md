@@ -56,17 +56,17 @@ Nobu expects lab members to:
 
 Paid lab members should receive written terms describing their appointment, compensation, workload, and responsibilities. Appointment letters and Auburn University policies take precedence over this policy.
 
-Compensation reflects university and departmental requirements, funding, experience, responsibilities, performance, and internal equity. Rates and graduate stipends will be reviewed at least annually and when appointments, responsibilities, funding availability change, but an increase is not guaranteed. Please see [current rates](compensation-rates.md).
+Compensation reflects university and departmental requirements, funding, experience, responsibilities, performance, and internal equity. Rates and graduate stipends will be reviewed at least annually and when appointments, responsibilities, or funding availability change, but an increase is not guaranteed. Please see [current rates](compensation-rates.md).
 
-I expect graduate students to be familiar with their own degree program, including the Calendar, Checklist, and Requirements. Read and bookmarks this [resource](https://graduate.auburn.edu/current-students/academic-resources/on-track-graduation.php?utm_source=graduate&utm_medium=web).
+I expect graduate students to be familiar with their own degree program, including the Calendar, Checklist, and Requirements. Read and bookmark this [resource](https://graduate.auburn.edu/current-students/academic-resources/on-track-graduation.php?utm_source=graduate&utm_medium=web).
 
 ### Graduate research assistantships
 
-Graduate students supported through the Mizumoto Lab are normally appointed as Graduate Research Assistants (GRA). GRA represents an appointment of 0.33 FTEs. A 0.33 FTE assistantship corresponds to approximately 13 hours per week of assigned research responsibilities. These responsibilities may overlap substantially with the student’s thesis or dissertation research, but this includes assisting your lab mates with their work. These hours are not monitored unless a student clearly does not contribute to the lab's work. 
+Graduate students supported through the Mizumoto Lab are normally appointed as Graduate Research Assistants (GRA). GRA represents an appointment of 0.33 FTEs. A 0.33 FTE assistantship corresponds to approximately 13 hours per week of assigned research responsibilities. These responsibilities may overlap substantially with the student's thesis or dissertation research and may include agreed contributions to shared lab work. The lab does not routinely track these hours; concerns will be discussed if assigned responsibilities are not being met.
 
 ## Communication, presence, and flexibility
 
-### Regular communication is more important
+### Regular communication matters more than a rigid schedule
 
 Lab members do not need permission for every change in their daily schedule, occasional remote work, or time away. However, they should notify Nobu when an absence or schedule change affects meetings, deadlines, shared work, or their availability for an extended period.
 
@@ -108,8 +108,8 @@ I always use a virtual deadline one week before for any tasks with a hard deadli
   - The Department of Entomology & Plant Pathology has a department seminar during semesters; you are expected to attend it. Ask a question even if it differs greatly from our field. Thinking about what to ask for a question is the most effective way to attend seminars.
 - Shared Lab Meeting
   - We have shared lab meetings between Penick Lab (Entomology), Mizumoto Lab (Entomology), and Smith Lab (Biology) on collective behavior in social insects. This is a monthly meeting on the first week of Friday.
-- Annual evaluation meeting
-  - All trainees will have a one-to-one annual evaluation with Nobu, where Nobu provides an evaluation with a trainee, and the trainee provides an evaluation with Nobu. I will provide a one-page sheet for the evaluation.
+- Annual graduate student review
+  - Graduate students complete the annual-review process described [here](../annual_review/README.md).
 
 ## Research integrity
 
