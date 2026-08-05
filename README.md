@@ -4,7 +4,10 @@ This private repository contains the current policies, onboarding checklists, an
 
 ## Core documents
 
-- [Lab policies](policies.md)
-- [Onboarding checklist](onboarding.md)
+- [Lab policies](policies/policies.md)
+- [Onboarding checklist](onboarding/README.md)
+- [Outboarding checklist](outboarding/outboarding.md)
 
-The documents in this repository do not contain student evaluations, personnel records, health information, or other confidential records.
+## Other documents
+
+- [Funding and Travel opportunities](resources/opportunities.md)

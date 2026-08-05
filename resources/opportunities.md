@@ -1,0 +1,119 @@
+# Opporunities
+
+## Fellowship and Grant opportunities
+
+Here is a list of fellowships/grants to which lab members may apply. You can always talk to me about help developing a grant proposal to fund your lab research! 
+
+1. **Fellowship for students**
+
+* [Presidential Graduate Research Fellowships](https://graduate.auburn.edu/presidential-graduate-research-fellowships/)
+  + NM will nominate students for this. 
+* [USDA NIFA Predoctoral Fellowship](https://www.nifa.usda.gov/grants/funding-opportunities/agriculture-food-research-initiative-education-workforce-development)
+  + Available to US citizens.
+* [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/)
+  + Available to US citizen graduate students in their first or second year without a Master. The deadline is typically early October. Provides 3 years of funding with an annual stipend. 
+  
+  
+2. **Fellowship opportunities for postdoc**
+
+* [NSF Postdoctoral Research Fellowships](https://new.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb)
+  + Available to US citizens.
+* [USDA NIFA Postdoctoral Fellowship](https://www.nifa.usda.gov/grants/funding-opportunities/agriculture-food-research-initiative-education-workforce-development)
+  + Available to US citizens.
+* [HFSP fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)
+* [LifeSciencesResearchFoundation](https://lsrf.org/apply/)
+  
+  
+3. **Grant opportunities**
+
+* [YORK INTERNATIONAL SCHOLARS PROGRAM](https://agriculture.auburn.edu/outreach/global-programs/funding-support/)
+  + The College of Agriculture E.T. York International Scholars Program (ISP) seeks to further the international research, teaching and outreach programs of Auburn University. It seeks to foster faculty and graduate students exchanges of knowledge, technologies and experiences in agriculture, primarily in a development assistance context.
+* [USDA NIFA SARE](https://www.sare.org/grants/): There is a grant for Graduate students.
+* [NationalGeographic](https://www.nationalgeographic.org/society/grants-and-investments/)
+  + Level I and Level II grants
+* [National Pest Management Association](https://www.npmapestworld.org/foundation/)
+
+* [ESA (Entomological Society of America)](https://www.entsoc.org/awards) offers many grants and awards.
+  + Additionally, ESA sections have further awards/grants, including travel grants to attend national conferences. Our relevant sections are [SysEB](https://entocert.org/membership/sections/syseb/awards) and [MUVE](https://entocert.org/membership/sections/muve/awards)
+* [William L. and Ruth D. Nutting Termite Research Grant](https://iussi.cyberbee.net/awards/)
+  + IUSSI - NAS has various small research grants for students studying social insects. I highly recommend applying for termtie one.
+* The Animal Behavior Society has [student research grant](https://www.animalbehaviorsociety.org/web/awards-srg.php) and [travel grant for conference](https://www.animalbehaviorsociety.org/web/awards-student.php)
+* [American Society of Naturalist](https://www.amnat.org/announcements/apply-student-research-award.html)
+* [The Society for Integrative & Comparative Biology](https://sicb.org/grants-and-scholarships/)
+* [Western North American Naturalist](https://scholarsarchive.byu.edu/wnan/grant_individual.html)
+* [Lewis and Clark Fund for Exploration and Field Research](https://www.amphilsoc.org/grants/lewis-and-clark-fund-exploration-and-field-research)
+  + For doctoral students to do fieldwork.
+
+* [The Company of Biologists](https://www.biologists.com/grants/travelling-fellowships/)
+* [SIGMA XI](https://www.sigmaxi.org/programs/grants-in-aid-of-research)
+* [ATBC seed research grant](https://tropicalbiology.org/grants-awards/atbc-seed-research-grant/)
+  + research grant for students to study in the tropics.
+* [American Museum of Natural History](https://www.amnh.org/research/richard-gilder-graduate-school/academics/fellowship-and-grant-opportunities/research-grants-and-graduate-student-exchange-fellowships)
+* [The EXPLORES CLUB](rershttps://www.explorers.org/grants/the-exploration-fund-grant/#form_explo)
+  + The Exploration Fund Grant aims to support graduate/post-graduate students and early career field scientists across a variety of disciplines. Awards typically range from 2,500 to 5,000 USD
+  + [ROLEX EXPLORERS CLUB GRANT](https://www.explorers.org/grants/rolex-explorers-club-grant/#form_explorers)
+  
+  
+4. **Grant link mainly for NM**
+
+* [NSF BIO](https://www.nsf.gov/dir/index.jsp?org=BIO)
+* [NSF CAREER](https://new.nsf.gov/funding/opportunities/faculty-early-career-development-program-career)
+* [USDA NIFA AFRI Foundational and Applied Science](https://www.nifa.usda.gov/grants/programs/agriculture-food-research-initiative-afri/afri-foundational-applied-science-program)
+* [USDA NIFA AFRI SAS](https://www.nifa.usda.gov/grants/programs/agriculture-food-research-initiative-afri/afri-sustainable-agricultural-systems)
+* [USDA NIFA CPPM](https://www.nifa.usda.gov/grants/programs/crop-protection-pest-management-program)
+* [USDA NIFA SARE](https://www.nifa.usda.gov/grants/funding-opportunities/sustainable-agriculture-research-education-sare-regional-host)
+* [EPA](https://www.epa.gov/research-grants/research-funding-opportunities)
+* [HFSP Early Career](https://www.hfsp.org/funding/hfsp-funding/research-grants)
+* [DARPA Young Faculty Award](https://www.darpa.mil/work-with-us/for-universities/young-faculty-award)
+* [DoD](https://www.grants.gov/search-results-detail/339728)
+* [NAFWS](https://grants.nafws.org/?_gl=1*xjj5lk*_ga*MTA1NTg1MjA0NC4xNzIwNTM3Mjg1*_ga_0V8LNN12CG*MTcyMDUzNzI4NS4xLjEuMTcyMDUzNzQzNi4wLjAuMA..)
+
+* [Sloan Research Fellowship](https://sloan.org/fellowships#tab-materials-required)
+* [Cottrell Scholars](https://rescorp.org/cottrell-scholars/summary-of-awards)
+* [Microsoft](https://www.microsoft.com/en-us/research/academic-programs/)
+* [Amazon](https://www.amazon.science/research-awards/call-for-proposals)
+
+* [Sumitomo](https://www.sumitomo.or.jp/html/kiso/kisokagaku.htm)
+* [The EXPLORES CLUB](https://www.explorers.org/grants/explorers-club-impact-grants/)
+
+
+## Conferences
+
+Conferences are a great way to practice presenting your work and meet new people in your area of interest! Below is a list of conferences that lab members frequently attend, how often the conference happens, the typical abstract deadline, and the typical month when the conference is held. 
+
+1. US Conferences
+
+* Entomological Society of America (ESA)
+  + Annual in Fall
+  + Deadline is ~ May
+* [ESA Southeastern Branch Meeting](https://www.entsoc.org/membership/branches/southeastern/meeting)
+  + Annual in Spring
+* [National Conference on Urban Entomology (NCUE)](https://ncue.tamu.edu/)
+  + more applied
+* [The Animal Behavior Society](https://www.animalbehaviorsociety.org/web/index.php)
+  + Annual in Summer
+* [The American Naturalist](https://www.amnat.org/meetings/mee-coming.html)
+* [The Society for Integrative & Comparative Biology](https://sicb.org/events/)
+
+
+2. International Conferences
+
+* International Congress of Entomology (ICE)
+  + Every 4 years (2024,2028,2032,...) in Summer
+  + Deadline is early
+* IUSSI
+  + Every 4 years (2026,2030,2034,...) in Summer
+  + Deadline is early
+* [Association for the Study of Animal Behaviour (ASAB)](https://www.asab.org)
+  + UK-based but often internationally
+  + Spring, summer, and winter meeting
+* [SWARM](https://www.swarm-systems.org/)
+
+## Information gathering
+
+* [EvolDir](https://evol.mcmaster.ca/evoldir.html): emailing list
+* [ecoevojobs](https://docs.google.com/spreadsheets/d/1Fvh1BZANNKsn8oVqqN2V4mQtKjpivU7fGqygNTTRAj8/edit?gid=1864294017#gid=1864294017): information about faculty jobs
+
+
+## University resources
+* [Short-Term Housing Resources](https://agriculture.auburn.edu/outreach/global-programs/short-term-housing-resources/): for International scholars/interns/visitors
