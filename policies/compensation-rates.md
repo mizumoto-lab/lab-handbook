@@ -66,15 +66,11 @@ Research writing and grant development are important parts of graduate training.
 
 For the first submission of each paper co-authored with Nobu Mizumoto:
 
-- First author: $300.
-- Co-author: $100.
+- First author: $500.
+- Co-author: $200.
 
 ### Refereed journal acceptance
 
-For each accepted paper co-authored with Nobu Mizumoto:
-
-- First author: $300.
-- Co-author: $100.
 - First author of a paper accepted by a journal designated as **incentive level 1** in the [journal list](https://docs.google.com/spreadsheets/d/1tNzj1UMuvO9vShVRI0QanOSFvRSSd8Q5cm1ndOqWjYg/edit?gid=1450194090#gid=1450194090): an additional $500.
 
 ### Research grants

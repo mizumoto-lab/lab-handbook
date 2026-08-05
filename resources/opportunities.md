@@ -1,5 +1,7 @@
 # Opporunities
 
+**Update:** August 2026
+
 ## Fellowship and Grant opportunities
 
 Here is a list of fellowships/grants to which lab members may apply. You can always talk to me about help developing a grant proposal to fund your lab research! 

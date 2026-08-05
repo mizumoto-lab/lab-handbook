@@ -6,6 +6,7 @@ This private repository contains the current policies, onboarding checklists, an
 
 - [Lab policies](policies/policies.md)
 - [Onboarding checklist](onboarding/README.md)
+- [Annual Review](annual_review/README.md)
 - [Outboarding checklist](outboarding/outboarding.md)
 
 ## Other documents
