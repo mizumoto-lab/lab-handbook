@@ -87,6 +87,15 @@ Please set a deadline whenever you request feedback for your proposal or manuscr
  
 I always use a virtual deadline one week before for any tasks with a hard deadline. This is for safety. I may get sick or have an accident. Please remember this and behave in the same way. But in an emergency, do not hesitate to ask me to do something in the last second.
 
+### Lab-wide communication
+
+The Mizumoto Lab Microsoft 365 group or Team chat are used for announcements and messages relevant to all lab members.
+
+Email: mizumoto_lab@groups.auburn.edu
+
+Use the group address for information that should reach the entire lab. Project-specific questions and discussions should normally be sent only to the people involved.
+
+
 ### Meetings
 
 - Biweekly Lab Meeting
@@ -110,6 +119,8 @@ I always use a virtual deadline one week before for any tasks with a hard deadli
   - We have shared lab meetings between Penick Lab (Entomology), Mizumoto Lab (Entomology), and Smith Lab (Biology) on collective behavior in social insects. This is a monthly meeting on the first week of Friday.
 - Annual graduate student review
   - Graduate students complete the annual-review process described [here](../annual_review/README.md).
+
+These meetings are normally held during the semester. Graduate students and postdoctoral researchers are expected to attend unless excused or the meeting is not relevant to their appointment. Undergraduate researchers are welcome but attendance is optional unless participation has been agreed upon as part of their research responsibilities.
 
 ## Research integrity
 
