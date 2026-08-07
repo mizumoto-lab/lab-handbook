@@ -17,7 +17,7 @@ Please let Nobu know if you find a policy that is confusing, outdated, or incons
 
 - [Funding and Travel opportunities](resources/opportunities.md)
 
-## Documents for Nobu
+## Administrative templates
 
 - [Onboarding checklist](onboarding/README.md)
 - [Offboarding checklist](offboarding/README.md)

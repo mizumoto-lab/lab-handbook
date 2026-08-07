@@ -64,6 +64,12 @@ I expect graduate students to be familiar with their own degree program, includi
 
 Graduate students supported through the Mizumoto Lab are normally appointed as Graduate Research Assistants (GRA). GRA represents an appointment of 0.33 FTEs. A 0.33 FTE assistantship corresponds to approximately 13 hours per week of assigned research responsibilities. These responsibilities may overlap substantially with the student's thesis or dissertation research and may include agreed contributions to shared lab work. The lab does not routinely track these hours; concerns will be discussed if assigned responsibilities are not being met.
 
+### Hourly paid undergraduate
+
+Paid undergraduate work on defined tasks that support lab research, insect care, data collection, data processing, or other agreed lab activities. The scope of work, expected weekly hours, and primary supervisor should be established when the appointment begins. Hourly employment is normally a supporting role within a project rather than independently leading the project. All hours worked must be recorded accurately using Auburn's required timekeeping system. Required job-related meetings and training count as work time when they are part of the student's assigned responsibilities.
+
+A day-to-day supervisor may be a graduate student, postdoctoral researcher, or other experienced lab member. The day-to-day supervisor provides training, assigns routine tasks, reviews the student's work, and communicates significant problems or changes to Nobu. Nobu remains responsible for the student's appointment and the overall scientific direction of the work.
+
 ## Communication, presence, and flexibility
 
 ### Regular communication matters more than a rigid schedule

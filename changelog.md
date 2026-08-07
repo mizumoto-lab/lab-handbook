@@ -1,6 +1,9 @@
 # Changelog
 
-## v1.0 - 2026-08-XX
+## v1.0.1 - 2026-08-07 16:41
+- added paid udergraduates detail
+
+## v1.0 - 2026-08-05
 
 - Moved the former lab manual into the lab-handbook repository.
 - Established graduate-student stipend levels.
