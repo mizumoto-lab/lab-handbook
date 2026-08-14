@@ -1,6 +1,6 @@
 # Mizumoto Lab Policies
 
-Last updated: 2026-08-05
+Last updated: 2026-08-10
 
 Next review: 2027-08
 
@@ -52,23 +52,31 @@ Nobu expects lab members to:
 - Discuss outside or side projects when they involve lab time, data, organisms, equipment, funding, or collaborators.
 - Follow all relevant safety, research integrity, university, and legal requirements.
 
-### Appointments, compensation, and workload
+## Appointments, compensation, and workload
 
 Paid lab members should receive written terms describing their appointment, compensation, workload, and responsibilities. Appointment letters and Auburn University policies take precedence over this policy.
 
 Compensation reflects university and departmental requirements, funding, experience, responsibilities, performance, and internal equity. Rates and graduate stipends will be reviewed at least annually and when appointments, responsibilities, or funding availability change, but an increase is not guaranteed. Please see [current rates](compensation-rates.md).
 
-I expect graduate students to be familiar with their own degree program, including the Calendar, Checklist, and Requirements. Read and bookmark this [resource](https://graduate.auburn.edu/current-students/academic-resources/on-track-graduation.php?utm_source=graduate&utm_medium=web).
-
 ### Graduate research assistantships
 
 Graduate students supported through the Mizumoto Lab are normally appointed as Graduate Research Assistants (GRA). GRA represents an appointment of 0.33 FTEs. A 0.33 FTE assistantship corresponds to approximately 13 hours per week of assigned research responsibilities. These responsibilities may overlap substantially with the student's thesis or dissertation research and may include agreed contributions to shared lab work. The lab does not routinely track these hours; concerns will be discussed if assigned responsibilities are not being met.
+
+I expect graduate students to be **familiar with their own degree program**, including the Calendar, Checklist, and Requirements. Read and bookmark this [resource](https://graduate.auburn.edu/current-students/academic-resources/on-track-graduation.php?utm_source=graduate&utm_medium=web).
 
 ### Hourly paid undergraduate
 
 Paid undergraduate work on defined tasks that support lab research, insect care, data collection, data processing, or other agreed lab activities. The scope of work, expected weekly hours, and primary supervisor should be established when the appointment begins. Hourly employment is normally a supporting role within a project rather than independently leading the project. All hours worked must be recorded accurately using Auburn's required timekeeping system. Required job-related meetings and training count as work time when they are part of the student's assigned responsibilities.
 
 A day-to-day supervisor may be a graduate student, postdoctoral researcher, or other experienced lab member. The day-to-day supervisor provides training, assigns routine tasks, reviews the student's work, and communicates significant problems or changes to Nobu. Nobu remains responsible for the student's appointment and the overall scientific direction of the work.
+
+### Undergraduate research for credit
+
+Undergraduate students enrolled in ENTM (or APBT) 4980 complete a small, student-led project within a framework defined by Nobu and other potential supervisors. The student leads project execution and makes agreed research decisions, while Nobu and any day-to-day supervisor provide training, feedback, and scientific guidance.
+
+Expected effort and deliverables follow the course syllabus and enrolled credit hours. If a student also holds a paid lab position, paid duties and course responsibilities should be defined separately.
+
+A day-to-day supervisor may provide routine training and feedback, but Nobu remains responsible for the course expectations, overall project scope, and evaluation. Research credit does not guarantee authorship or publication. Scholarly credit follows the authorship policy and the student's actual contributions.
 
 ## Communication, presence, and flexibility
 

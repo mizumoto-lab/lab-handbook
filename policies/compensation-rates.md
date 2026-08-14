@@ -1,6 +1,6 @@
 # Mizumoto Lab Compensation Rates
 
-Last updated: 2026-08-05
+Last updated: 2026-08-14
 
 Next review: 2027-08
 
@@ -10,16 +10,18 @@ This document records current compensation rates and lab-funded incentives. Indi
 
 Graduate research assistantship base rates are set by the department. The standard appointment is normally 0.33 FTE.
 
-| Degree program | Current departmental base | Fringe benefit |
+| Degree program | Current departmental base |
 |---|---:|---:|
-| MS | $23,000 | 3.80% |
-| PhD | $25,000 | 3.80% |
+| MS | $23,000 | 
+| PhD | $25,000 | 
 
 Students are responsible for required university and health-related fees.
 
 ### Lab-funded stipend levels
 
-When funding and university rules permit, the lab may provide a stipend above the departmental base. Stipend levels are reviewed annually before the next academic-year appointment. It is based on demonstrated performance during the preceding year and is not automatic based on time in the program or completion of a required degree milestone. The review considers the quality and consistency of research progress, increasing independence, research communication, reliability, and contributions to the lab. Relevant evidence may include:
+When funding and university rules permit, continuing graduate students who make satisfactory progress normally receive a 3% annual increase in their current stipend. Stipend levels are reviewed annually before the next academic-year appointment.
+
+Additional increases may be provided based on demonstrated performance during the preceding year, including research progress, increasing independence, research communication, reliability, and contributions to the lab. Relevant evidence may include:
 - Designing and completing well-planned research.
 - Collecting, organizing, analyzing, or interpreting substantial data.
 - Preparing or submitting a manuscript.
@@ -29,6 +31,10 @@ When funding and university rules permit, the lab may provide a stipend above th
 - Successfully resolving important conceptual or technical problems.
 
 No single activity guarantees an increase. Publication acceptance, grant success, and other outcomes influenced by external review will be considered, but students will not be penalized solely because a manuscript or proposal remains under review.
+
+#### Satisfactory progress
+
+
 
 #### MS students
 
