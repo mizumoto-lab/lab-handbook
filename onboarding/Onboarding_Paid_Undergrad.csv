@@ -1,0 +1,45 @@
+﻿Complete,Stage,Owner,Task,Notes
+FALSE,0_Hiring setup,Nobu + Work_supervisor,Define the initial work scope and first measurable task.,Undergraduates normally support an existing project rather than lead it.
+FALSE,0_Hiring setup,Nobu,"Confirm appointment period, hourly rate, expected weekly hours, funding, and duties.",Follow current lab and departmental policies.
+FALSE,0_Hiring setup,Nobu,Assign a day-to-day supervisor.,May be a graduate student or other experienced lab member.
+FALSE,0_Hiring setup,Nobu,Confirm the expected schedule and Auburn employment limits.,Fall/spring: maximum 20 hours/week across all Auburn jobs.
+FALSE,0_Hiring setup,Nobu,Ask for the student's Auburn Banner ID.,Do not store Banner IDs in the public handbook.
+FALSE,0_Hiring setup,Nobu,Send the Banner ID and hiring information to the department administrator.,Track hiring status privately.
+FALSE,0_Hiring setup,Nobu,Create a private onboarding checklist and share it with the student and supervisor.,Keep individualized records private.
+FALSE,0_Hiring setup,Nobu,Confirm onboarding is complete and record the official start date.,No work before the approved start date.
+FALSE,0_Hiring setup,New_Undergrad,Complete required Auburn onboarding steps.,Follow Auburn HR instructions and deadlines.
+FALSE,0_Hiring setup,New_Undergrad,Report unclear or delayed onboarding steps to Nobu.,Do not send sensitive documents through GitHub.
+FALSE,1_Before first shift,Nobu,Add the student to BioRaft and other required systems.,Grant only necessary access.
+FALSE,1_Before first shift,Nobu,Add the student to GitHub and project repositories if needed.,Match access to assigned duties.
+FALSE,1_Before first shift,Nobu,Update the lab website,
+FALSE,1_Before first shift,Nobu,Ask the New_Undergrad to create a GitHub account and send the username.,
+FALSE,1_Before first shift,Work_supervisor,Prepare the first work session and a supervised initial task.,Avoid open-ended independent projects at the start.
+FALSE,1_Before first shift,Nobu,Introduce TigerTime,
+FALSE,1_Before first shift,Nobu,"Provide required workspace, access, and equipment.",Include key/card access if needed.
+FALSE,1_Before first shift,Nobu,Identify card access,
+FALSE,1_Before first shift,Nobu + Work_supervisor,Agree on the normal weekly work schedule and how changes are communicated.,Accommodate academic responsibilities.
+FALSE,1_Before first shift,Nobu + Work_supervisor,Identify meetings and training that count as paid work.,Required job activities count as work time.
+FALSE,1_Before first shift,New_Undergrad,Share class schedule and general availability.,Report major changes.
+FALSE,1_Before first shift,New_Undergrad,Record questions that remain unresolved.,
+FALSE,1_Before first shift,New_Undergrad,"Read the lab policies (https://github.com/mizumoto-lab/lab-handbook) and write down questions. After that, let Nobu know that you have read it.",
+FALSE,1_Before first shift,Nobu,Confirm the student is active in Banner and TigerTime.,New Banner records may require an overnight update.
+FALSE,1_Before first shift,Nobu,Send the lab policies and this checklist to the New_Undergrad.,
+FALSE,1_Before first shift,Nobu,Schedule the first-day orientation and the first individual meeting.,
+FALSE,1_Before first shift,Nobu,Invite to Lab Team Chat and Mizumoto Lab Microsoft 365 group,
+FALSE,2_First day,Work_supervisor,Demonstrate the first task and documentation expectations.,Record problems and unusual observations.
+FALSE,2_First day,Work_supervisor,Provide training for assigned methods.,Focus on skills needed for current tasks.
+FALSE,2_First day,Work_supervisor,Review the first completed work and provide feedback.,Correct technique and documentation early.
+FALSE,2_First day,Nobu + Work_supervisor,"Confirm workload, supervision, and weekly hours are appropriate.",Adjust task scope if needed.
+FALSE,2_First day,New_Undergrad,Clock in and out using TigerTime.,Record actual work times.
+FALSE,2_First day,New_Undergrad,Take Required Civil Rights Training: CR508E https://learningmanager.adobe.com/app/learner?accountId=114654#/course/9181131 ,
+FALSE,2_First day,New_Undergrad,"CITI Program (AU Basic RCR Training for ALL Faculty, Staff, Postdocs, and Students): https://www.citiprogram.org/members/index.cfm?pageID=50&showInstitution=964",
+FALSE,2_First day,New_Undergrad,Lab safety training (BioRaft) https://auburn.bioraft.com/,
+FALSE,2_First day,New_Undergrad,"Confirm access to required workspace, files, repositories, and communication channels.",Report missing access promptly.
+FALSE,2_First day,Nobu,Check the first TigerTime record for accuracy.,Correct missed punches promptly.
+FALSE,2_First day,Work_supervisor,Show where project files and records are stored.,Do not store sensitive information in GitHub.
+FALSE,2_First day,Together,Review the lab handbook,Define what successful completion looks like.
+FALSE,2_First day,Together,Review Nobu and day-to-day supervisor responsibilities.,"Escalate employment, safety, project-direction, or credit questions to Nobu."
+FALSE,2_First day,Together,"Review communication, work location, schedule changes, and absences.",Identify a backup contact.
+FALSE,2_First day,Together,Review TigerTime rules and missed-punch procedures.,All hours worked must be recorded.
+FALSE,2_First day,Together,"Review safety, emergency procedures, and working-alone restrictions.",Match training to assigned duties.
+FALSE,2_First day,Together,Review authorship expectations.,Routine paid work does not automatically establish authorship.
